@@ -1,3 +1,21 @@
 # GA1.1-team6
-## Subteam A - add
-We made a simple function for adding two numbers. We did this by defining the function `add(a, b)` in Python. In the next cell you recall the function and add the two numbers or strings you want to add in the brackets. We tested the function with different sets of numbers; small numbers, big numbers, decimals, negative numbers, fractions, complex numbers and two strings. For all these examples the output was correct. However, we get an error when we try to add a string and a number.  
+
+Subteam A: add(a, b)
+Merel, Lorenz
+We made a simple function for adding two numbers. We did this by defining the function `add(a, b)` in Python. In the next cell you recall the function and add the two numbers or strings you want to add in the brackets. We tested the function with different sets of numbers; small numbers, big numbers, decimals, negative numbers, fractions, complex numbers and two strings. For all these examples the output was correct. However, we get an error when we try to add a string and a number.
+
+Subteam B: subtract(a, b)
+Mees, Panos
+
+
+Subteam C: multiply(a, b)
+Emmaly
+  The multiply function takes two numbers and returns their product. It can be used whenever you need to multiply two values in your code.
+  The function may break or produce an error if the provided values cannot be multiplied, for example when using incompatible data types.
+  Example
+  def multiply(a, b):
+      return a * b
+  result = multiply(4, 5)
+  print(result)
+  Output:
+  20
